@@ -1,5 +1,5 @@
 
-##GetUserByEmailbyakhil
+##GetUserByEmailbyakhilpoda
 $baererToken = "8179-2o0eYtYt2PvzkSIgOQ5w"
 $yammerBaseUrl = "https://www.yammer.com/api/v1"
 #$email = "ashok.m.mathew@sce.com"
